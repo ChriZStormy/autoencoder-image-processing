@@ -1,8 +1,5 @@
 # Autoencoders for Image Restoration and Transformation
 
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-Autoencoders-blue)
-![Dataset](https://img.shields.io/badge/Dataset-CIFAR--10-orange)
-![Institution](https://img.shields.io/badge/University_of_Guanajuato-LSIA-green)
 
 ## General Objective
 The main goal of this project is to understand how autoencoders can learn useful data representations to solve various image reconstruction problems. 
